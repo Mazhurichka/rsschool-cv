@@ -47,7 +47,7 @@ HTML
       </nav>
 ```
 
-SASS
+SCSS
 ```
 .nav__list-item {
   padding: 0.6rem 1rem;
