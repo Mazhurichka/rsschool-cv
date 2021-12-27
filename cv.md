@@ -1,4 +1,4 @@
-![personal photo](img/personal-photo.jpg "Marina Matsypula")
+![personal photo](https://mazhurichka.github.io/rsschool-cv/img/Personal-photo.jpg "Marina Matsypula")
 # Marina Matsypula
 
 ****
@@ -98,9 +98,7 @@ refactoring code.
 
 ### Projects
 ****
-**Pamyatnik.vn.ua** 
-
- *<https://pamyatnik.vn.ua/>*
+*[Pamyatnik.vn.ua](https://pamyatnik.vn.ua/)*
 ****
 ### Language
 ****
