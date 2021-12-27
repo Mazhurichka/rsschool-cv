@@ -1,4 +1,4 @@
-![personal photo](./img/personal-photo.jpg "Marina Matsypula")
+![personal photo](img/personal-photo.jpg "Marina Matsypula")
 # Marina Matsypula
 
 ****
