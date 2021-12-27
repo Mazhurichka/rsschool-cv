@@ -1,4 +1,5 @@
-![personal photo](https://mazhurichka.github.io/rsschool-cv/img/Personal-photo.jpg "Marina Matsypula")
+![personal photo](./img/Personal-photo.jpg "Marina Matsypula")
+
 # Marina Matsypula
 
 ****
