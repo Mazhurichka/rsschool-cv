@@ -1,4 +1,4 @@
-![personal photo](./img/Personal-photo.jpg "Marina Matsypula 1")
+![personal photo](./assets/img/Personal-photo.jpg "Marina Matsypula 1")
 
 # Marina Matsypula
 
